@@ -6,6 +6,12 @@
       "name": "Kenzinho",
       "age": 38,
       "id": 1
+    },
+    {
+      "email": "danielj@email.com",
+      "password": "123456",
+      "id": 2
     }
+
   ]
 }
